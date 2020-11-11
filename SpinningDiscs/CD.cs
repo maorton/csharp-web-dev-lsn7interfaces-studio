@@ -14,7 +14,7 @@ namespace SpinningDiscs
         
         public void Spin()
         {
-            Console.WriteLine("A CD spins at a rate of 200 - 500 rpm.);
+            Console.WriteLine("A CD spins at a rate of 200 - 500 rpm.");
         }
 
         public void StoreData()
